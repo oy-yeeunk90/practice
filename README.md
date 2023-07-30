@@ -1,3 +1,3 @@
-# Boxing + Exciting
+# Practice 
 
-복싱 사이트
+연습해보는 practice 레포입니다.
